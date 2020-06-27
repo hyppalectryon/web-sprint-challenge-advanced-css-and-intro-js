@@ -23,6 +23,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
 accessible design is website design that insures that no matter what device a person uses, the website will still be usable for them.
 this includes people who need to use screen readers or who need their pages zoomed in due to vision issues.
 
